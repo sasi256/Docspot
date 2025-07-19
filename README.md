@@ -119,9 +119,8 @@ docspot/
 📹 Watch Demo Video
 
 🤝 Contributors
-Konatham Sai Ram Chandu – Project Lead
+P.SASI KIRAN – Project SUPPORTER
 
-[Your Team Members Here]
 
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
