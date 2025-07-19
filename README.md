@@ -125,26 +125,6 @@ P.SASI KIRAN – Project SUPPORTER
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-🌟 If you found this project helpful, give it a ⭐ and share it with your peers!
-
-pgsql
-Copy
-Edit
-
----
-
-### ✅ Next Steps
-
-- Replace placeholder image links with actual screenshots from your project.
-- Replace `https://github.com/yourusername/docspot.git` with your real GitHub repo link.
-- Add a `LICENSE` file (MIT or any preferred).
-- Upload `.env.example` with sample config values.
-
-Would you like me to generate a **PDF or DOCX** from this or help you upload this to GitHub?
-
-
-
-
 
 
 
